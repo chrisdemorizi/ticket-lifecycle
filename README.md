@@ -51,20 +51,20 @@ As a Help Desk Agent (John), observe the ticket’s properties:
 - Department
 - SLA
 - Assigned To  
-![image](https://github.com/user-attachments/assets/6e803834-c5e5-4f7c-94fe-8848aea8119e)
+![image](https://github.com/user-attachments/assets/dacccfe7-65db-49d4-82eb-361c8b4863d0)
 
 #### Task 4: Set Ticket Properties
 - Set the ticket properties:
   - **Priority**: Sev-A (1 hour, 24/7)
   - **Department**: Online Banking  
-![image](https://github.com/user-attachments/assets/de7d3578-53d2-41b7-ac3e-6d3804b0a9c5)
+![image](https://github.com/user-attachments/assets/672cfca9-1a4e-4ddf-b6d9-eba91d4a42a5)
 
 #### Task 5: Ticket Observations
 Attempt to observe the ticket again as "John". Can you view or change the ticket?
 
 #### Task 6: Work the Ticket
 Work the ticket to completion as Jane:  
-![image](https://github.com/user-attachments/assets/5d0f379d-d90a-4420-958d-f9df5b66ac9c)
+![image](https://github.com/user-attachments/assets/03709642-9c77-4b94-94b0-9b82ce1382da)
 
 ---
 

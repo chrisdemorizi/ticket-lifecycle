@@ -85,11 +85,11 @@ As a Help Desk Agent (John), observe the ticket’s properties:
 - Set the ticket properties:
   - **Priority**: Sev-B (4 hours, 24/7)
   - **Department**: Support  
-![image](https://github.com/user-attachments/assets/c526e756-a485-43ca-9119-ce7e28a9679e)
+![image](https://github.com/user-attachments/assets/682548fd-c619-4289-9f48-94ae30daa3ee)
 
 #### Task 4: Work the Ticket
 Work the ticket to completion as John:  
-![image](https://github.com/user-attachments/assets/a7d69049-4242-45c5-acf7-1c3254961521)
+![image](https://github.com/user-attachments/assets/9154eec0-058b-4a1e-be45-74238f95ce88)
 
 ---
 

@@ -110,13 +110,14 @@ As a Help Desk Agent (John), observe the ticket’s properties:
 - Set the ticket properties:
   - **Priority**: Sev-B (4 hours, 24/7)
   - **Department**: Support
+![image](https://github.com/user-attachments/assets/bd70d634-a480-44e7-b451-a0754a9b8302)
 
 #### Task 4: Work the Ticket
 Work the ticket to completion as John:  
-![image](https://github.com/user-attachments/assets/a7d69049-4242-45c5-acf7-1c3254961521)
+![image](https://github.com/user-attachments/assets/1569b45d-1196-40fe-a814-f2e414bdc20a)
 
 ---
 
 <h2>Takeaways and Key Skills Developed</h2>
 
-In this project, I demonstrated the ticket lifecycle in osTicket by creating and resolving tickets as both an end-user and a help desk agent. I configured ticket properties such as priority, department, and SLA and worked through each stage of the lifecycle: intake, assignment, communication, and resolution. This hands-on experience helped me understand the full process of ticket management, including configuring workflows and roles, as well as observing how tickets are managed and resolved from start to finish within a ticketing system.
+In this lab, I demonstrated the ticket lifecycle in osTicket by creating and resolving tickets as both an end-user and a help desk agent. I configured ticket properties such as priority, department, and SLA and worked through each stage of the lifecycle: intake, assignment, communication, and resolution. This hands-on experience helped me understand the full process of ticket management, including configuring workflows and roles, as well as observing how tickets are managed and resolved from start to finish within a ticketing system.
